@@ -1,0 +1,60 @@
+ROBERT;LEONARD;24(no save patient)
+WILFRED;HENRY;40(no save patient)
+WILFRED;HENRY;24(no save patient)
+ROBERT;NORMAN;24(no save patient)
+GEORGE;NORMAN;24(no save patient)
+ROBERT;LEONARD;24(no save patient)
+GEORGE;LEONARD;24(no save patient)
+ROBERT;LEONARD;24
+GEORGE;HENRY;24(no save patient)
+ROBERT;LEONARD;24(no save patient)
+WILFRED;HENRY;40(no save patient)
+WILFRED;HENRY;24(no save patient)
+ROBERT;NORMAN;24(no save patient)
+GEORGE;NORMAN;24(no save patient)
+ROBERT;LEONARD;24(no save patient)
+GEORGE;LEONARD;24(no save patient)
+ROBERT;LEONARD;24
+GEORGE;HENRY;24(no save patient)
+ROBERT;LEONARD;24(no save patient)
+WILFRED;HENRY;40(no save patient)
+Semih;Serum;16
+Semih;Serum;40
+Nefise;Serum;24(no save patient)
+Mehmet;Serum;40
+Burak;Serum;16(no save patient)
+ROBERT;LEONARD;24
+GEORGE;HENRY;24(no save patient)
+ROBERT;LEONARD;24(no save patient)
+GEORGE;LEONARD;24(no save patient)
+ROBERT;LEONARD;24
+GEORGE;HENRY;24(no save patient)
+ROBERT;LEONARD;24(no save patient)
+WILFRED;HENRY;40(no save patient)
+WILFRED;HENRY;24(no save patient)
+Semih;Serum;16
+Semih;Serum;40
+Nefise;Serum;24(no save patient)
+Mehmet;Serum;40
+Burak;Serum;16(no save patient)
+GEORGE;LEONARD;24(no save patient)
+ROBERT;LEONARD;24
+GEORGE;HENRY;24(no save patient)
+ROBERT;LEONARD;24(no save patient)
+ROBERT;LEONARD;24(no save patient)
+GEORGE;LEONARD;24(no save patient)
+ROBERT;LEONARD;24
+GEORGE;HENRY;24(no save patient)
+Semih;Serum;16
+Semih;Serum;40
+Nefise;Serum;24(no save patient)
+Mehmet;Serum;40
+Burak;Serum;16(no save patient)
+ROBERT;LEONARD;24(no save patient)
+WILFRED;HENRY;40(no save patient)
+WILFRED;HENRY;24(no save patient)
+ROBERT;NORMAN;24(no save patient)
+GEORGE;NORMAN;24(no save patient)
+Nefise;Serum;24
+Semih;Serum;20
+Ahmet;Serum;24(no save patient)
